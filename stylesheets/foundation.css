@@ -1323,6 +1323,11 @@ table.show-for-xlarge, table.show-for-large, table.hide-for-small, table.hide-fo
     height: 100%;
   }
 
+  audio {
+    width: 100%;
+    margin-top: 16px;
+  }
+
   @media only screen and (min-width: 768px) {
     body {
       height: 100%;
